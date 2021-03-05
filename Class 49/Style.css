@@ -1,0 +1,9 @@
+
+ h1 {color:ghostwhite} 
+ body {background-color: mintcream;}
+
+ p {color: ghostwhite;font-style: italic; }
+ 
+.youtube {background-color: ivory; display:flex; flex-direction :row; justify-content: space-evenly;  }
+ .youtube p {color: midnightblue;}   
+                                 
